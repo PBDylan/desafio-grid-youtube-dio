@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+aside {
+    width: 218px;
+    height: 968px;
+    display: flex;
+}
